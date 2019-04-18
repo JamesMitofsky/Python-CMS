@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "updating-websites-with-python",
+  "private_key_id": "edcd7d23e4f733a606044221606678649d52d2a1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDL9iOBatvK6gNj\nS9I2N3qEjR8NINn1MwwO/BFx7ZRlmo5uGS6UU/S/lrKHZ5nMFu8jr26nxQkpVqTD\nJMWEL+Yb9skMdMqs26Eq+dsy6IJMXQ0VQSQnYx+QuhmI8yeLWJz9zFysbNaZ7rdN\nTW0hVJBI877ZNIQUIBYxb1GHTBU+Jws7SLpguO3GnCjpKHdwY0YabQT77TQn7lvf\n1zPkW3fow6IZGHQET8Xw9rkw3UDD2sCFy84q7p6wG+ECYOGuHExnqhZdRWKIJeqH\nO94fPFRJVymu82fvJAYFsY3RzZx1cn6rNy8mX5M1Uganwuworpyj+j6EvMEipyac\n9WSe5fhRAgMBAAECggEAORdKQ/kN0eQkE6DPFBb+Z+j6lpmp+M0TpIQhO/MlFTWo\nhZ/t3l4Lxa8ghO9WaP7IbIQ4JKTuFhCnKOp7kS85KX2wNBji/HSzzcxHc54KjuaC\n+X6U6KOB2+iDqkZpvMMOmqogDLGgdlEQJQa1s90wUANOWg0tpVZ/79F5kDYXQiB6\nBrT4SLwhKzK7m/G/kkt99O5kYpdR7Tm76d0IhA1spU7puFkVZyQLHM6gPY8SYJct\nxW9WEIdRmsiQt8baAh9TlHw+9Gy+CQiB+QMFJ7wrekXGxds9YXjWONmTUMMjJZLx\nlon90s9DhzA3SPkVRS0W0Zjw1xylOel5a6Qf/jstuwKBgQD+Y/2Ti+H/g6/FCFlL\nsYqz+Hqh/oBmww0oTVHVHsupvzo3m8K377dSzQH4J7TmZpVfap51SJntUWLgK45C\nQVud92GKzcBqlPQEx/ItjpqwtErFsJ+XYfqwyqk8ZXMyDErRPEcwXKvfujThO7rj\nYx1pTerX94LHD3FkZtvgqBUbuwKBgQDNQHk18u2UzCVH7G3Md1iQVycjwKIxxdEa\nLftgY6rToSGovWRHh+96OYqVLBU+CHxdTwwAXJDEkiNT01jRfwd63roM0x2G02eO\nC7+GSMkrwdrUC1x/mD7rN8GAGv7SiLhiDEYH1WbxcUBK5VhgqFcSCyjJLcmZMNHr\nQHQowV9NYwKBgHlGG94aIpxYIBRTXZaLRi9z9qqBlJ7ov74F1kw+iSMcSdm2xMZB\nXmj32Md/zmrEXtOFFZOeD9umH/f0a7ZESDPvei3c1q0443fgBiEXycERwk+qWvql\nOAjOJI3pY1hpqcVD8kAo/bsDny/89KRwXNYV0i4xDcRuJUWTD6FzH9T/AoGAeNxx\nQ5pT2h3ICi0njpHsXbpkOsJQ/9wLQE45Ss4Fpm6oglNbvF9IXgGKIEMAEzIuAUft\nujzHpmijUtYN4/bYMbr7dVfPeDf+L3+tfOZZR2H0eI5kHmJJEnsXf1bmHJUTdfDi\nP/SilKPqhu+79dbKxr45exVyM7myssOWYvVTKB8CgYEA0Za8y4EQ7l5D6xaOjbWT\nh8uxdAJBqAXBjo8DOroSe/ss/8ETcvTBPBxJseG/CQt1NO2yagJ4GP0OHq9PLFpJ\nZfUE8ppY4gLEywJKeMNCXkQ4D1qQAq3QoRVFYcI6aaBusr3RDuwKoTvvCh8ZHUUv\nRaR15D14JrvPVAZ2r9JNymo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-updater@updating-websites-with-python.iam.gserviceaccount.com",
+  "client_id": "105472872616632502935",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-updater%40updating-websites-with-python.iam.gserviceaccount.com"
+}
