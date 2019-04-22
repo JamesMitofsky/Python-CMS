@@ -2,6 +2,9 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import pickle
 
+
+#Package install: pip install gspread oauth2client
+
 def main():
     #Loading requirements
     scope = ["https://spreadsheets.google.com/feeds", 'https://www.googleapis.com/auth/spreadsheets',
@@ -42,8 +45,8 @@ def main():
     # about = client.open('Update Hub: LDU Website').sheet2
     # contact = client.open('Update Hub: LDU Website').sheet3
     # sheets = [home]
-
-    sheet = client.open('Update Hub: LDU Website').sheet1
+    spreadsheet = client.open('Update Hub: LDU Website')
+    sheet = spreadsheet.sheet1
 
     #One time startup: content must be written in to give targeting baseline
     # content1 = "This website was created to document and organize smaller, usually assignment related projects."
